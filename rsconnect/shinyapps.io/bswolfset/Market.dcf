@@ -1,0 +1,11 @@
+name: Market
+title:
+account: bswolfset
+server: shinyapps.io
+appId: 134021
+bundleId: 597508
+url: https://bswolfset.shinyapps.io/Market/
+when: 1477510148.17622
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Archive/server - Copy.R|Archive/ui - Copy.R
